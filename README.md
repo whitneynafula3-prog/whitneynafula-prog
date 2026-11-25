@@ -70,4 +70,11 @@ I am a Mathematics & Computer Science student specializing in statistical theory
 - **GitHub:** [github.com/whitneynafula3-prog](https://github.com/whitneynafula3-prog)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
 - **Email:** your.email@example.com
--
+-## Projects
+
+### Supermarket Transaction Insights Dashboard
+Interactive statistical analysis and random sampling simulator exploring customer spending patterns across 1,800 supermarket transaction records.
+* **Live Dashboard:** [View Live Demo](https://whitneynafula3-prog.github.io/supermarket-dashboard/)
+* **Repository:** [whitneynafula3-prog/supermarket-dashboard](https://github.com/whitneynafula3-prog/supermarket-dashboard)
+* **Tools:** Python, HTML, CSS, JavaScript, JSON
+*
